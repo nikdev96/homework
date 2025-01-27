@@ -166,9 +166,3 @@ backend no_balance_backend
 ```
 ![haproxy](img/img1.png)
    
-
-### Задание 3
-   1. ![zabbix login](img/img4.png)
-
-### Задание 4
-   1. ![zabbix login](img/img5.png)
