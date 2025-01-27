@@ -91,7 +91,8 @@ listen web_tcp
     server s1 127.0.0.1:8888 check inter 3s
     server s2 127.0.0.1:9999 check inter 3s
 ```
-
+Создал файл index.html в дериктории tmp
+![haproxy](img/img.png)
    
 
 ### Задание 2
